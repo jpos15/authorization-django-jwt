@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "authorization-django-jwt"
+    }
+  },
+  "defaultProject": "authorization-django-jwt",
+  "cli": {
+    "analytics": false
+  }
 }
